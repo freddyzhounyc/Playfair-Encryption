@@ -2,11 +2,6 @@
  * The Bigram class represents a bigram which has two values where it will eventually be used for the encryption or decryption.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #4 - Playfair Encryption
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 
 public class Bigram{
